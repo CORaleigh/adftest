@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Test-CHF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ed1b904-0fd8-456d-a828-a4fe76690363",
+		"tenantId": "f03ae146-d945-4924-95c0-7b661c30ddbb"
+	}
+}
